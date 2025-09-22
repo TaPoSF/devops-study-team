@@ -1,2 +1,1 @@
-I am on my way to passing the CompTIA Pentest+.
-I am begining to become the Penetration Tester
+I am on my way to passing the CompTIA Pentest+. I am begining to become the Penetration Tester. I am starting to learn some basis tool like metasploit, Hydra...
